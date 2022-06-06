@@ -1,0 +1,15 @@
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\bin\Debug\net6.0\Curso_Udemy.exe
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\bin\Debug\net6.0\Curso_Udemy.deps.json
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\bin\Debug\net6.0\Curso_Udemy.runtimeconfig.json
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\bin\Debug\net6.0\Curso_Udemy.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\bin\Debug\net6.0\ref\Curso_Udemy.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\bin\Debug\net6.0\Curso_Udemy.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\Curso_Udemy.csproj.AssemblyReference.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\Curso_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\Curso_Udemy.AssemblyInfoInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\Curso_Udemy.AssemblyInfo.cs
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\Curso_Udemy.csproj.CoreCompileInputs.cache
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\Curso_Udemy.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\ref\Curso_Udemy.dll
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\Curso_Udemy.pdb
+C:\Users\55219\OneDrive\Documentos\GitHub\Curso_CSharp_Udemy\Curso_Udemy\obj\Debug\net6.0\Curso_Udemy.genruntimeconfig.cache
