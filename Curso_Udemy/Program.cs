@@ -19,7 +19,36 @@ static void Aula23()
 
     Console.WriteLine($"{nome} se identifica com o sexo {sexo}, tem {idade} anos e {altura.ToString("F2", CultureInfo.InvariantCulture)}m de altura.");
 }
+static void Aula27()
+{
+    int x = int.Parse(Console.ReadLine());
 
-Aula23();
+    if(x % 2 == 0)
+    {
+        Console.WriteLine("Par!");
+    }else
+    {
+        Console.WriteLine("Ímpar!");
+    }
+}
+static void Aula28()
+{
+    int x = int.Parse(Console.ReadLine());
+
+    if (x < 12)
+    {
+        Console.WriteLine("Bom dia!");
+    }
+    else if (x < 18)
+    {
+        Console.WriteLine("Boa tarde!");
+    }
+    else
+    {
+        Console.WriteLine("Boa noite!");
+    }
+}
+
+Aula27();
 
     
